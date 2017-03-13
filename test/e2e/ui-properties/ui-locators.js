@@ -7,6 +7,7 @@ module.exports = {
         app: '#app',
         select: '.mdl-tabs__tab',
         selectValue: {
+			film: 'Film',
             person: 'Person',
             starship: 'Starship',
             planet: 'Planet'
